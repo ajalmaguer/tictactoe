@@ -6,11 +6,14 @@
 }
  .column {
   border: solid red 1px;
+  /*display:inline-block;*/
   float:left;
  }
 
-
-
 #board {
   border: 1px solid red;
+}
+
+#reset {
+  clear:left;
 }
